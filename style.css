@@ -66,3 +66,8 @@ h2 {
   text-align: center;
   color: orange;
 }
+
+.column {
+  border-box: solid 15px white;
+  background-color: #74b9ff;
+}
